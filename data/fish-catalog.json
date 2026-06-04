@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Benga Sunshine",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Stuartgranti_original.jpg",
+    "imageSecondary": "/photos/fish/Aulonocara_Stuartgranti.png"
+  },
+  {
+    "name": "Albino Sunshine",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Albino_Benga_Sunshine_original.jpg",
+    "imageSecondary": "/photos/fish/Albino_Benga_Sunshine.png"
+  },
+  {
+    "name": "Super Red Ruby",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Rubescens_original.jpg",
+    "imageSecondary": "/photos/fish/Aulonocara_Rubescens.png"
+  },
+  {
+    "name": "Lwanda Red Top",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/red_top_lwanda_original.png",
+    "imageSecondary": "/photos/fish/unnamed1.png"
+  },
+  {
+    "name": "Flavescent",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Flavscent_Peacock_original.jpg",
+    "imageSecondary": "/photos/fish/Flavscent_Peacock.png"
+  },
+  {
+    "name": "Albino Flavescent",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Blue Neon",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Eureka Red OB",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "OB",
+    "image": "/photos/fish/Dragonblood_OB_original.jpg",
+    "imageSecondary": "/photos/fish/Dragonblood_OB.png"
+  },
+  {
+    "name": "Eureka Red",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Jacobfreibergi_original.jpg",
+    "imageSecondary": "/photos/fish/Aulonocara_Jacobfreibergi.png"
+  },
+  {
+    "name": "Swallowtail",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Albino Swallowtail",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "Albino",
+    "image": "/photos/fish/Albino_Swallowtail_original.jpg",
+    "imageSecondary": "/photos/fish/Albino_Swallowtail.png"
+  },
+  {
+    "name": "Fire Fish Red Coral",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Platinum Turkis",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/unnamed2_original.jpg",
+    "imageSecondary": "/photos/fish/unnamed2.png"
+  },
+  {
+    "name": "Red OB",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "OB",
+    "image": "/photos/fish/Red_OB_original.jpg",
+    "imageSecondary": "/photos/fish/Red_OB.png"
+  },
+  {
+    "name": "Yellow Benga OB",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "OB",
+    "image": "/photos/fish/Yellow_Benga_OB_original.jpg",
+    "imageSecondary": "/photos/fish/Yellow_Benga_OB.png"
+  },
+  {
+    "name": "Pink Platinum OB",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "OB"
+  },
+  {
+    "name": "Red/Blue OB",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "OB"
+  },
+  {
+    "name": "Blue Dragon",
+    "availability": "Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Saffron",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Albino Saffron",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "Albino",
+    "image": "/photos/fish/Albino_Saffron-original.jpg",
+    "imageSecondary": "/photos/fish/Albino_Saffron.png"
+  },
+  {
+    "name": "Lemon Jake",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)"
+  },
+  {
+    "name": "Albino Ruby Red",
+    "availability": "Not Available",
+    "category": "Aulonocara (Peacocks)",
+    "tag": "Albino"
+  },
+  {
+    "name": "Sciaenochromis fryeri \"Iceberg Redfin\"",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)",
+    "tag": "German line bred",
+    "image": "/photos/fish/Iceberg_Redfin_original.jpg",
+    "imageSecondary": "/photos/fish/Iceberg_Redfin.png"
+  },
+  {
+    "name": "Otopharynx Lithobates",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Otopharynx_Lithobates_original.jpg",
+    "imageSecondary": "/photos/fish/Otopharynx_Lithobates.png"
+  },
+  {
+    "name": "Otopharynx Lithobates BOD",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Otopharynx_Lithobates_original.jpg",
+    "imageSecondary": "/photos/fish/Otopharynx_Lithobates.png"
+  },
+  {
+    "name": "Nimbochromis Venustus / Milomo VC-10",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)"
+  },
+  {
+    "name": "Protomelas sp. \"Taiwan Reef\"",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.jpg",
+    "imageSecondary": "/photos/fish/Protomelas_Sp_Steveni_Taiwan.png"
+  },
+  {
+    "name": "Placidochromis sp. Jalo Reef",
+    "availability": "Not Available",
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Jalo_Reef_original.jpg",
+    "imageSecondary": "/photos/fish/fixthis_Jalo_Reef.png"
+  },
+  {
+    "name": "Protomelas Taeniolatus Red Empress",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)"
+  },
+  {
+    "name": "Protomelas Taeniolatus Albino Red Empress",
+    "availability": "Not Available",
+    "category": "Haplochromines (Haps)",
+    "tag": "Albino"
+  },
+  {
+    "name": "Star Sapphire",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)"
+  },
+  {
+    "name": "Lethrinops intermedius",
+    "availability": "Available",
+    "category": "Haplochromines (Haps)"
+  },
+  {
+    "name": "Ivory Lupingue",
+    "availability": "Not Available",
+    "category": "Haplochromines (Haps)"
+  }
+]
