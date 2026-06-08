@@ -25,7 +25,7 @@ export const heroSlides = [
     title: "Premium African Cichlids",
     subtitle: "Hand-raised peacocks and haps, delivered from our Ontario fish room.",
     fishName: "Benga Sunshine",
-    image: "/photos/fish/Aulonocara_Stuartgranti_original.jpg",
+    image: "/photos/fish/Benga_Sunshine_Peacock_original.png",
     accentImage: "/photos/fish/bg_Aulonocara_Stuartgranti.png",
   },
   {

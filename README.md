@@ -1,4 +1,4 @@
-# The Malawian Fish Room — Website 2
+# The Malawian Fish Room Website
 
 A premium, Marine Collectors–inspired storefront for **The Malawian Fish Room**, built with Next.js and styled for a photography-first, boutique aquarium retailer feel.
 
@@ -28,4 +28,4 @@ Static files are exported to `out/` (GitHub Pages–ready). Set `BASE_PATH` if d
 
 ## Contact
 
-Inquiries: [malawianfishroom@outlook.com](mailto:malawianfishroom@outlook.com)
+Inquiries: [themalawianfishroom@outlook.com](mailto:themalawianfishroom@outlook.com)

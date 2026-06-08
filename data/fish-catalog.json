@@ -3,7 +3,7 @@
     "name": "Benga Sunshine",
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/Aulonocara_Stuartgranti_original.jpg",
+    "image": "/photos/fish/Benga_Sunshine_Peacock_original.png",
     "imageSecondary": "/photos/fish/Aulonocara_Stuartgranti.png"
   },
   {
@@ -56,13 +56,14 @@
     "name": "Eureka Red",
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/Aulonocara_Jacobfreibergi_original.jpg",
-    "imageSecondary": "/photos/fish/Aulonocara_Jacobfreibergi.png"
+    "image": "/photos/fish/Eureka_Red_original.jpg"
   },
   {
     "name": "Swallowtail",
     "availability": "Available",
-    "category": "Aulonocara (Peacocks)"
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Jacobfreibergi_original.jpg",
+    "imageSecondary": "/photos/fish/Aulonocara_Jacobfreibergi.png"
   },
   {
     "name": "Albino Swallowtail",
@@ -81,8 +82,8 @@
     "name": "Platinum Turkis",
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/unnamed2_original.jpg",
-    "imageSecondary": "/photos/fish/unnamed2.png"
+    "image": "/photos/fish/Plat_Turkis_original.jpg",
+    "imageSecondary": "/photos/fish/Plat_turkis_nobg.png"
   },
   {
     "name": "Red OB",
@@ -110,7 +111,8 @@
     "name": "Red/Blue OB",
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "tag": "OB"
+    "tag": "OB",
+    "image": "/photos/fish/unnamed1_original.jpg"
   },
   {
     "name": "Blue Dragon",
@@ -120,7 +122,8 @@
   {
     "name": "Saffron",
     "availability": "Not Available",
-    "category": "Aulonocara (Peacocks)"
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Stuartgranti_original.jpg"
   },
   {
     "name": "Albino Saffron",
@@ -185,7 +188,8 @@
   {
     "name": "Protomelas Taeniolatus Red Empress",
     "availability": "Available",
-    "category": "Haplochromines (Haps)"
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Red_Empress_original.jpg"
   },
   {
     "name": "Protomelas Taeniolatus Albino Red Empress",
@@ -201,7 +205,8 @@
   {
     "name": "Lethrinops intermedius",
     "availability": "Available",
-    "category": "Haplochromines (Haps)"
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Lethrinops_Intermedius_original.jpg"
   },
   {
     "name": "Ivory Lupingue",
