@@ -21,7 +21,14 @@ export const metadata: Metadata = {
   },
   description:
     "Premium African cichlids and Malawi fish available in Canada. Premium African cichlids raised in Ontario. Browse peacocks and haps from a trusted breeder.",
-};
+    
+    icons: {
+      icon: "/favicon.ico",
+      apple: "/apple-touch-icon.png",
+    },
+  
+    manifest: "/site.webmanifest",
+  };
 
 export default function RootLayout({
   children,
