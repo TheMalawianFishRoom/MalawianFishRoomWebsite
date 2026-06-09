@@ -3,7 +3,7 @@
 import { FormEvent, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 
-const recipient = "malawianfishroom@outlook.com";
+const recipient = "themalawianfishroom@outlook.com";
 
 export function ContactForm() {
   const searchParams = useSearchParams();

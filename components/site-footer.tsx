@@ -55,13 +55,13 @@ export function SiteFooter() {
           <p className="mt-4 text-sm leading-relaxed text-white/75">
             Ontario, Canada
             <br />
-            Inquiry-based sales. Currently no online checkout.
+            Currently no online checkout.
           </p>
           <a
-            href="mailto:malawianfishroom@outlook.com"
+            href="mailto:themalawianfishroom@outlook.com"
             className="mt-3 inline-block text-sm font-bold text-[#4794FF] hover:text-[#1577FF]"
           >
-            malawianfishroom@outlook.com
+            themalawianfishroom@outlook.com
           </a>
           <p className="mt-4 text-xs text-white/50">
             Contact us for current stock, pricing, and local arrangements.

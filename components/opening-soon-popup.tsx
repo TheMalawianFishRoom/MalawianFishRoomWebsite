@@ -87,7 +87,7 @@ export function OpeningSoonPopup() {
               The Malawian Fish Room
             </p>
             <h2 id={titleId} className="mt-2 text-2xl font-bold tracking-tight sm:text-3xl">
-              Retail Location Opening Soon in London!
+              Retail Location Opening August 1st in London!
             </h2>
           </div>
 

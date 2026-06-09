@@ -2,12 +2,17 @@
 
 import Image from "next/image";
 import { useCallback, useEffect, useId, useState } from "react";
+import type { FishSize } from "@/types/fish";
 import { createPortal } from "react-dom";
 
 type Props = {
   fishName: string;
   primarySrc: string;
   secondarySrc?: string;
+
+  salePercent: number;
+  sizes: FishSize[];
+
   triggerClassName?: string;
 };
 
@@ -17,6 +22,10 @@ export function FishImageLightbox({
   fishName,
   primarySrc,
   secondarySrc,
+
+  salePercent,
+  sizes,
+
   triggerClassName = "",
 }: Props) {
   const [open, setOpen] = useState(false);
@@ -87,7 +96,7 @@ export function FishImageLightbox({
           role="dialog"
           aria-modal="true"
           aria-labelledby={titleId}
-          className="relative z-[1] w-full max-w-lg overflow-hidden rounded-[28px] border border-white/10 bg-white shadow-2xl"
+          className="relative z-[1] flex max-h-[90vh] w-full max-w-lg flex-col overflow-hidden rounded-[28px] ring-2 ring-[#1577FF]/90 bg-white shadow-[0_0_25px_rgba(21,119,255,0.15)]"
           onClick={(event) => event.stopPropagation()}
         >
           <div className="flex items-start justify-between gap-3 border-b border-[#2A2B2A]/10 px-5 py-4">
@@ -106,8 +115,8 @@ export function FishImageLightbox({
             </button>
           </div>
 
-          <div className="p-5">
-            <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-black">
+          <div className="custom-scrollbar overflow-y-auto p-5">
+           <div className="relative aspect-[4/3] max-h-[400px] w-full overflow-hidden rounded-2xl bg-black ring-2 ring-[#1577FF]/50 shadow-[0_0_15px_rgba(21,119,255,0.12)]">
               <Image
                 src={active.src}
                 alt={active.alt}
@@ -116,6 +125,53 @@ export function FishImageLightbox({
                 sizes="(max-width: 512px) 100vw, 512px"
               />
             </div>
+
+
+            <div className="mt-5">
+    <h3 className="mb-3 text-lg font-bold text-[#1577FF]">
+      Available Sizes
+    </h3>
+
+    <div className="space-y-3">
+      {sizes.map((size) => {
+        if (!size.available) return null;
+
+        const salePrice =
+          size.price * (1 - salePercent / 100);
+
+        return (
+          <div
+            key={size.label}
+            className="rounded-xl border border-[#1577FF]/20 bg-[#1577FF]/5 p-3"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-semibold text-[#1577FF]">
+                {size.label}
+              </span>
+
+              <div className="text-right">
+                {salePercent > 0 ? (
+                  <>
+                    <p className="text-sm text-[#2A2B2A]/50 line-through">
+                      ${size.price.toFixed(2)}
+                    </p>
+
+                    <p className="text-lg font-bold text-red-500">
+                      ${salePrice.toFixed(2)}
+                    </p>
+                  </>
+                ) : (
+                  <p className="text-lg font-bold text-[#1577FF]">
+                    ${size.price.toFixed(2)}
+                  </p>
+                )}
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </div>
 
             {views.length > 1 ? (
               <div className="mt-4 flex flex-wrap justify-center gap-2">

@@ -18,6 +18,8 @@ export function ProductCard({ fish, showInquire = true }: Props) {
             fishName={fish.name}
             primarySrc={fish.image}
             secondarySrc={fish.imageSecondary}
+            salePercent={fish.salePercent}
+            sizes={fish.sizes}
             triggerClassName="h-full"
           />
         ) : (
@@ -25,11 +27,27 @@ export function ProductCard({ fish, showInquire = true }: Props) {
             Photo coming soon
           </div>
         )}
+
+        {/* Size availability badges */}
+        <div className="absolute bottom-3 left-3 flex flex-wrap gap-1">
+          {fish.sizes
+            .filter((size) => size.available)
+            .map((size) => (
+              <div
+                key={size.label}
+                className="rounded-md border border-white/20 bg-[#22c55e] px-2 py-1 text-xs font-bold text-white shadow-lg backdrop-blur-sm"
+              >
+                {size.label.split("-")[0]}
+              </div>
+            ))}
+        </div>
+
         {fish.tag ? (
           <span className="absolute left-3 top-3 rounded-full bg-[#0D2C54] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-white">
             {fish.tag}
           </span>
         ) : null}
+
         {isAvailable ? (
           <span className="absolute right-3 top-3 rounded-full bg-[#13FD17] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-black">
             Available
@@ -37,8 +55,14 @@ export function ProductCard({ fish, showInquire = true }: Props) {
         ) : null}
       </div>
 
-      <p className="text-xs font-medium text-[#2A2B2A]/60">{fish.category}</p>
-      <h3 className="mt-1 text-base font-bold leading-snug text-[#2A2B2A]">{fish.name}</h3>
+      <p className="text-xs font-medium text-[#2A2B2A]/60">
+        {fish.category}
+      </p>
+
+      <h3 className="mt-1 text-base font-bold leading-snug text-[#1577FF]">
+        {fish.name}
+      </h3>
+
       <p
         className={`mt-2 text-sm font-bold ${
           isAvailable ? "text-[#1577FF]" : "text-[#2A2B2A]/50"
@@ -46,6 +70,7 @@ export function ProductCard({ fish, showInquire = true }: Props) {
       >
         {fish.availability}
       </p>
+
       {showInquire ? (
         <Link
           href={`/contact?fish=${encodeURIComponent(fish.name)}`}

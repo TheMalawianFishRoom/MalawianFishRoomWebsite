@@ -1,6 +1,28 @@
 [
   {
     "name": "Benga Sunshine",
+
+     "salePercent": 50,
+
+     "sizes": [
+    {
+      "label": "3\"-4\"",
+      "price": 79.99,
+      "available": true
+    },
+
+    {
+      "label": "4\"-5\"",
+      "price": 99.99,
+      "available": true
+    },
+
+    {
+      "label": "5+\"",
+      "price": 119.99,
+      "available": false
+    }
+  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Benga_Sunshine_Peacock_original.png",
@@ -8,6 +30,28 @@
   },
   {
     "name": "Albino Sunshine",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Albino_Benga_Sunshine_original.jpg",
@@ -15,6 +59,28 @@
   },
   {
     "name": "Super Red Ruby",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Aulonocara_Rubescens_original.jpg",
@@ -22,6 +88,28 @@
   },
   {
     "name": "Lwanda Red Top",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/red_top_lwanda_original.png",
@@ -29,6 +117,28 @@
   },
   {
     "name": "Flavescent",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Flavscent_Peacock_original.jpg",
@@ -36,16 +146,82 @@
   },
   {
     "name": "Albino Flavescent",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
     "name": "Blue Neon",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
     "name": "Eureka Red OB",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
@@ -54,12 +230,56 @@
   },
   {
     "name": "Eureka Red",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Eureka_Red_original.jpg"
   },
   {
     "name": "Swallowtail",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Aulonocara_Jacobfreibergi_original.jpg",
@@ -67,6 +287,28 @@
   },
   {
     "name": "Albino Swallowtail",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
@@ -75,11 +317,55 @@
   },
   {
     "name": "Fire Fish Red Coral",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
     "name": "Platinum Turkis",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Plat_Turkis_original.jpg",
@@ -87,6 +373,28 @@
   },
   {
     "name": "Red OB",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
@@ -95,6 +403,28 @@
   },
   {
     "name": "Yellow Benga OB",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
@@ -103,12 +433,56 @@
   },
   {
     "name": "Pink Platinum OB",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB"
   },
   {
     "name": "Red/Blue OB",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
@@ -116,17 +490,83 @@
   },
   {
     "name": "Blue Dragon",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
     "name": "Saffron",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Aulonocara_Stuartgranti_original.jpg"
   },
   {
     "name": "Albino Saffron",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
@@ -135,17 +575,83 @@
   },
   {
     "name": "Lemon Jake",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
     "name": "Albino Ruby Red",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino"
   },
   {
     "name": "Sciaenochromis fryeri \"Iceberg Redfin\"",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "tag": "German line bred",
@@ -154,6 +660,28 @@
   },
   {
     "name": "Otopharynx Lithobates",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Otopharynx_Lithobates_original.jpg",
@@ -161,6 +689,28 @@
   },
   {
     "name": "Otopharynx Lithobates BOD",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Otopharynx_Lithobates_original.jpg",
@@ -168,11 +718,55 @@
   },
   {
     "name": "Nimbochromis Venustus / Milomo VC-10",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)"
   },
   {
     "name": "Protomelas sp. \"Taiwan Reef\"",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.jpg",
@@ -180,6 +774,28 @@
   },
   {
     "name": "Placidochromis sp. Jalo Reef",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Jalo_Reef_original.jpg",
@@ -187,29 +803,139 @@
   },
   {
     "name": "Protomelas Taeniolatus Red Empress",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Red_Empress_original.jpg"
   },
   {
     "name": "Protomelas Taeniolatus Albino Red Empress",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Haplochromines (Haps)",
     "tag": "Albino"
   },
   {
     "name": "Star Sapphire",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)"
   },
   {
     "name": "Lethrinops intermedius",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Lethrinops_Intermedius_original.jpg"
   },
   {
     "name": "Ivory Lupingue",
+    
+    "salePercent": 50,
+
+    "sizes": [
+   {
+     "label": "3\"-4\"",
+     "price": 79.99,
+     "available": true
+   },
+
+   {
+     "label": "4\"-5\"",
+     "price": 99.99,
+     "available": true
+   },
+
+   {
+     "label": "5+\"",
+     "price": 119.99,
+     "available": false
+   }
+ ],
     "availability": "Not Available",
     "category": "Haplochromines (Haps)"
   }
