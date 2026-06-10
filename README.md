@@ -293,6 +293,7 @@ This project was developed for The Malawian Fish Room.
 
 Business assets, branding materials, graphics, and media included within the project may be subject to separate ownership or usage permissions.
 
+```
           __ 
          /  ;  
      _.--"""-..   _.
@@ -300,3 +301,4 @@ Business assets, branding materials, graphics, and media included within the pro
    ]  ,    ,    ,    ;
     '--L__J_.-"" ',_;
         '-._J
+```
