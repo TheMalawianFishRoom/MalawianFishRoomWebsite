@@ -11,7 +11,7 @@ export function SiteFooter() {
             alt="The Malawian Fish Room"
             width={360}
             height={130}
-            className="h-20 w-auto max-w-full rounded-md bg-white/95 p-2 sm:h-24 md:h-28"
+            className="h-16 w-auto max-w-full rounded-md bg-white/95 p-0 sm:h-20 md:h-24"
           />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/75">
             Premium African cichlids raised in Ontario. Trusted wholesale breeding,

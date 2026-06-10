@@ -56,7 +56,7 @@ export default function ContactPage() {
               href="mailto:malawianfishroom@outlook.com"
               className="mt-4 inline-block text-sm font-bold text-[#4794FF] hover:text-[#1577FF]"
             >
-              malawianfishroom@outlook.com
+              themalawianfishroom@outlook.com
             </a>
             <p className="mt-4 text-sm text-white/65">
               We respond to inquiries regarding fish selection, availability, and local pickup or
