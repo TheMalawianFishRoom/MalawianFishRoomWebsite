@@ -294,11 +294,11 @@ This project was developed for The Malawian Fish Room.
 Business assets, branding materials, graphics, and media included within the project may be subject to separate ownership or usage permissions.
 
 ```
-          __ 
-         /  ;  
-     _.--"""-..   _.
-    /o        `-'  [
-   ]  ,    ,    ,    ;
-    '--L__J_.-"" ',_;
+          __              
+         /  ;                                               _J""-.   
+     _.--"""-..   _.                .-""L_                /o )   \ ,';
+    /o        `-'  [           ;`, /   ( o\               \ ,'    ;  /
+   ]  ,    ,    ,    ;         \  ;    `, /                "-.__.'"\_;
+    '--L__J_.-"" ',_;          ;_/"`.__.-"
         '-._J
 ```
