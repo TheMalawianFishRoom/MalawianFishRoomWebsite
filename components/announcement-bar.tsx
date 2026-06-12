@@ -29,7 +29,7 @@ export function AnnouncementBar() {
             All Fish 50% Off
           </p>
 
-          <p className="mt-1 text-sm font-medium text-orange-300">
+          <p className="mt-1 text-xl font-extrabold tracking-tight text-white md:text-2xl">
             No Tax Until 2027
           </p>
 

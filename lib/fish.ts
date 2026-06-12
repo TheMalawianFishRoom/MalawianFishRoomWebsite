@@ -22,14 +22,14 @@ export const availableFeaturedFish = featuredFish.filter(
 
 export const heroSlides = [
   {
-    title: "Premium African Cichlids",
-    subtitle: "Hand-raised peacocks and haps, delivered from our Ontario fish room.",
+    title: "German Line African Cichlids",
+    subtitle: "Hand raised peacocks and haps, delivered from our Ontario fish room.",
     fishName: "Benga Sunshine",
-    image: "/photos/fish/Benga_Sunshine_Peacock_original.png",
-    accentImage: "/photos/fish/bg_Aulonocara_Stuartgranti.png",
+    image: "/photos/fish/Benga_Sunshine_2.png",
+    accentImage: "/photos/fish/Benga_Sunshine_Peacock_original.png",
   },
   {
-    title: "Collector-Quality Color",
+    title: "Collector Quality Color",
     subtitle: "Vivid bloodlines selected for health, pattern, and long-term aquarium success.",
     fishName: "Super Red Ruby",
     image: "/photos/fish/Aulonocara_Rubescens_original.jpg",

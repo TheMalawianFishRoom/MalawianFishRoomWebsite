@@ -20,13 +20,13 @@
     {
       "label": "5+\"",
       "price": 119.99,
-      "available": false
+      "available": true
     }
   ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Benga_Sunshine_Peacock_original.png",
-    "imageSecondary": "/photos/fish/Aulonocara_Stuartgranti.png"
+    "imageSecondary": "/photos/fish/Benga_Sunshine_2.png"
   },
   {
     "name": "Albino Sunshine",
@@ -49,7 +49,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -78,7 +78,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -107,13 +107,12 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/red_top_lwanda_original.png",
-    "imageSecondary": "/photos/fish/unnamed1.png"
+    "image": "/photos/fish/red_top_lwanda_original.png"
   },
   {
     "name": "Flavescent",
@@ -136,10 +135,10 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
-    "availability": "Available",
+    "availability": "Not Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Flavscent_Peacock_original.jpg",
     "imageSecondary": "/photos/fish/Flavscent_Peacock.png"
@@ -165,7 +164,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -192,7 +191,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -219,7 +218,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -249,7 +248,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -277,7 +276,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -306,7 +305,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -336,7 +335,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -363,7 +362,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -392,7 +391,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -422,7 +421,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -452,7 +451,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -480,7 +479,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -509,7 +508,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -536,7 +535,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -564,7 +563,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -594,7 +593,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -621,7 +620,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -649,7 +648,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -679,7 +678,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -708,7 +707,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -737,7 +736,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -764,7 +763,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -793,7 +792,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -822,7 +821,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -850,7 +849,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",
@@ -878,7 +877,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -905,7 +904,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Available",
@@ -933,7 +932,7 @@
    {
      "label": "5+\"",
      "price": 119.99,
-     "available": false
+     "available": true
    }
  ],
     "availability": "Not Available",

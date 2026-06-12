@@ -102,7 +102,7 @@ export default function HomePage() {
             </h2>
             <p className="text-sm leading-relaxed text-[#2A2B2A]/75">
               The Malawian Fish Room makes it straightforward to find beautiful, healthy African
-              cichlids. We specialize in Aulonocara peacocks and haplochromines, selected for color,
+              cichlids. We specialize in German line bred Aulonocara peacocks and haplochromines, selected for color,
               temperament, and responsible care from our Ontario-based operation.
             </p>
             <ul className="space-y-3 text-sm font-bold text-[#2A2B2A]">
