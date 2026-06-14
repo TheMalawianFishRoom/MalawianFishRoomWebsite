@@ -82,7 +82,8 @@
    }
  ],
     "availability": "Available",
-    "category": "Aulonocara (Peacocks)"
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/Aulonocara_Rubescens_original.jpg"
   },
   {
     "name": "Lwanda Red Top",
@@ -680,8 +681,8 @@
  ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
-    "image": "/photos/fish/Otopharynx_Lithobates_original.jpg",
-    "imageSecondary": "/photos/fish/Otopharynx_Lithobates.png"
+    "image": "/photos/fish/Otopharynx_Lithobates_2.png",
+    "imageSecondary": "/photos/fish/Otopharynx_Lithobates_original.jpg"
   },
   {
     "name": "Otopharynx Lithobates BOD",
@@ -708,7 +709,8 @@
    }
  ],
     "availability": "Available",
-    "category": "Haplochromines (Haps)"
+    "category": "Haplochromines (Haps)",
+    "image": "/photos/fish/Black_Orange_Litho.jpg"
   },
   {
     "name": "Nimbochromis Venustus / Milomo VC-10",
