@@ -56,7 +56,7 @@ export const faqSections: FaqSection[] = [
       {
         question: "How do I order fish?",
         answer:
-          "We operate inquiry-based retail sales. There is no online checkout currently. Browse the catalog then contact us by phone, email, or the contact form with the fish you are interested in. We will confirm availability, pricing, and next steps.",
+          "We operate inquiry-based retail sales. There is no online checkout currently. Browse the catalog then contact us by phone, email, or the contact form with the fish you are interested in. We will confirm availability, pricing, and next steps. Upon opening the hours of operation will be 11am - 9pm (est).",
       },
       {
         question: "How do I know what is in stock?",
@@ -94,6 +94,11 @@ export const faqSections: FaqSection[] = [
         question: "What should I bring for pickup?",
         answer:
           "We will pack the fish safely however it is advised to bring appropriate bags or containers and plan for safe transport within your situation. Insulated packaging helps in cold and hot weather.",
+      },
+      {
+        question: "What are the hours of operation?",
+        answer:
+          "The Malawian Fish Room is open every day (excluding holidays) from 11am - 9pm (est).",
       },
     ],
   },

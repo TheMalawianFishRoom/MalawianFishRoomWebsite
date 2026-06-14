@@ -51,6 +51,10 @@ export default function ContactPage() {
               769 Little Simcoe Street,
               <br />
               London, Ontario, Canada
+              <br /> 
+              Opem 11am - 9pm (est)
+              <br />
+              7 Days a Week!* 
             </p>
             <a
               href="mailto:malawianfishroom@outlook.com"
@@ -61,6 +65,9 @@ export default function ContactPage() {
             <p className="mt-4 text-sm text-white/65">
               We respond to inquiries regarding fish selection, availability, and local pickup or
               delivery arrangements.
+            </p>
+            <p className="mt-4 text-sm text-white/30">
+              * - Hours of operation mary vary.
             </p>
           </div>
 

@@ -14,8 +14,8 @@ export function SiteFooter() {
             className="h-16 w-auto max-w-full rounded-md bg-white/95 p-0 sm:h-20 md:h-24"
           />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/75">
-            Premium African cichlids raised in Ontario. Trusted wholesale breeding,
-            now available directly to hobbyists.
+            Premium German line bred African cichlids raised in Ontario. 
+            Trusted wholesale breeding, now available directly to hobbyists.
           </p>
         </div>
 
@@ -53,9 +53,11 @@ export function SiteFooter() {
         <div>
           <h2 className="text-sm font-bold tracking-wide">Get in touch</h2>
           <p className="mt-4 text-sm leading-relaxed text-white/75">
-            Ontario, Canada
+            769 Little Simcoe St. 
             <br />
-            Currently no online checkout.
+            London, Ontario, Canada
+            <br />
+            Open 11 am - 9 pm (est), 7 days a week!
           </p>
           <a
             href="mailto:themalawianfishroom@outlook.com"
