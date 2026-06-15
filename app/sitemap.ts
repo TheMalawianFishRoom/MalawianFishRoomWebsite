@@ -1,13 +1,13 @@
 export default function sitemap() {
-    return [
-      {
-        url: "https://yourdomain.com",
-      },
-      {
-        url: "https://yourdomain.com/catalog",
-      },
-      {
-        url: "https://yourdomain.com/contact",
-      },
-    ];
-  }
+  return [
+    {
+      url: "https://themalawianfishroom.ca",
+    },
+    {
+      url: "https://themalawianfishroom.ca/catalog",
+    },
+    {
+      url: "https://themalawianfishroom.ca/contact",
+    },
+  ];
+}

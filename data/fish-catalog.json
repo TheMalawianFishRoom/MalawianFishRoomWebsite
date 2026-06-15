@@ -166,7 +166,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
@@ -221,7 +221,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
     "image": "photos/fish/Dragonblood_OB_original.jpg"
@@ -307,7 +307,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
     "image": "/photos/fish/Albino_Swallowtail_original.jpg",
@@ -337,7 +337,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Ruby_Red_2.png"
   },
@@ -365,7 +365,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "image": "/photos/fish/Plat_Turkis_original.jpg",
     "imageSecondary": "/photos/fish/Plat_turkis_nobg.png"
@@ -424,7 +424,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
     "image": "/photos/fish/Yellow_Benga_OB_original.jpg",
@@ -454,7 +454,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB"
   },
@@ -537,7 +537,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
@@ -564,7 +564,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
     "image": "/photos/fish/Albino_Saffron-original.jpg",
@@ -594,7 +594,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)"
   },
   {
@@ -621,7 +621,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino"
   },
@@ -793,7 +793,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Haplochromines (Haps)",
     "image": "/photos/fish/Jalo_Reef_original.jpg",
     "imageSecondary": "/photos/fish/Extra/bg_Jalo_Reef.png"
@@ -850,7 +850,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Haplochromines (Haps)",
     "tag": "Albino"
   },
@@ -933,7 +933,7 @@
      "available": true
    }
  ],
-    "availability": "Not Available",
+    "availability": "Available",
     "category": "Haplochromines (Haps)"
   }
 ]
