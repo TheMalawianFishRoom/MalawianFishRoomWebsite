@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
   assetPrefix: basePath || undefined,
 
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
 
   async headers() {
