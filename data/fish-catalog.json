@@ -280,8 +280,7 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/Aulonocara_Jacobfreibergi_original.jpg",
-    "imageSecondary": "/photos/fish/Aulonocara_Jacobfreibergi.png"
+    "image": "/photos/fish/swallowtail_original.jpg"
   },
   {
     "name": "Albino Swallowtail",
@@ -431,7 +430,7 @@
     "imageSecondary": "/photos/fish/Yellow_Benga_OB.png"
   },
   {
-    "name": "Pink Platinum OB",
+    "name": "Pink OB",
     
     "salePercent": 50,
 
