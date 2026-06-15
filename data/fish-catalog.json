@@ -54,8 +54,7 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/Albino_Benga_Sunshine_original.jpg",
-    "imageSecondary": "/photos/fish/Albino_Benga_Sunshine.png"
+    "image": "/photos/fish/Albino_Benga_Sunshine_original.jpg"
   },
   {
     "name": "Super Red Ruby",
@@ -223,8 +222,7 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "tag": "OB",
-    "image": "photos/fish/Dragonblood_OB_original.jpg"
+    "tag": "OB"
   },
   {
     "name": "Eureka Red",
@@ -309,8 +307,7 @@
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
-    "image": "/photos/fish/Albino_Swallowtail_original.jpg",
-    "imageSecondary": "/photos/fish/Albino_Swallowtail.png"
+    "image": "/photos/fish/Albino_Swallowtail_original.jpg"
   },
   {
     "name": "Fire Fish Red Coral",
@@ -366,8 +363,7 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/Plat_Turkis_original.jpg",
-    "imageSecondary": "/photos/fish/Plat_turkis_nobg.png"
+    "image": "/photos/fish/Plat_Turkis_original.jpg"
   },
   {
     "name": "Red OB",
@@ -396,8 +392,7 @@
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
-    "image": "/photos/fish/Red_OB_original.jpg",
-    "imageSecondary": "/photos/fish/Red_OB.png"
+    "image": "/photos/fish/Red_OB_original.jpg"
   },
   {
     "name": "Yellow Benga OB",
@@ -426,8 +421,7 @@
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "OB",
-    "image": "/photos/fish/Yellow_Benga_OB_original.jpg",
-    "imageSecondary": "/photos/fish/Yellow_Benga_OB.png"
+    "image": "/photos/fish/Yellow_Benga_OB_original.jpg"
   },
   {
     "name": "Pink OB",
@@ -567,8 +561,7 @@
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
     "tag": "Albino",
-    "image": "/photos/fish/Albino_Saffron-original.jpg",
-    "imageSecondary": "/photos/fish/Albino_Saffron.png"
+    "image": "/photos/fish/Albino_Saffron-original.jpg"
   },
   {
     "name": "Lemon Jake",
@@ -652,8 +645,7 @@
     "availability": "Available",
     "category": "Haplochromines (Haps)",
     "tag": "German line bred",
-    "image": "/photos/fish/Iceberg_Redfin_original.jpg",
-    "imageSecondary": "/photos/fish/Iceberg_Redfin.png"
+    "image": "/photos/fish/Iceberg_Redfin_original.jpg"
   },
   {
     "name": "Otopharynx Lithobates",
@@ -766,8 +758,7 @@
  ],
     "availability": "Available",
     "category": "Haplochromines (Haps)",
-    "image": "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.jpg",
-    "imageSecondary": "/photos/fish/Protomelas_Sp_Steveni_Taiwan.png"
+    "image": "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.jpg"
   },
   {
     "name": "Placidochromis sp. Jalo Reef",
