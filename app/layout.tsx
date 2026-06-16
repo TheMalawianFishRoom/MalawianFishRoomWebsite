@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     template: "%s | The Malawian Fish Room",
   },
   openGraph: {
-    images: ["/og-image.jpg"],
+    images: ["/og-image.png"],
   },
   description:
     "Premium African cichlids and Malawi fish available in Canada. Premium African cichlids raised in Ontario. Browse peacocks and haps from a trusted breeder.",
