@@ -150,7 +150,7 @@ export default function HomePage() {
           </div>
           <div className="relative h-40 w-56 shrink-0 bg-black md:h-48 md:w-64">
             <Image
-              src="/photos/fish/Iceberg_Redfin_original.jpg"
+              src="/photos/fish/Iceberg_Redfin_original.webp"
               alt="Iceberg Redfin cichlid"
               fill
               className="object-contain p-2"
