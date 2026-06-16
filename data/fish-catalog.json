@@ -478,7 +478,8 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "tag": "OB"
+    "tag": "OB",
+    "image": "/photos/fish/red_blue_OB_original.jpg"
   },
   {
     "name": "Blue Dragon",
@@ -505,7 +506,8 @@
    }
  ],
     "availability": "Available",
-    "category": "Aulonocara (Peacocks)"
+    "category": "Aulonocara (Peacocks)",
+    "image": "/photos/fish/blue_dragon_original.jpg"
   },
   {
     "name": "Saffron",
