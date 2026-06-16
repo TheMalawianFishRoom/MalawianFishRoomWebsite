@@ -25,22 +25,22 @@ export const heroSlides = [
     title: "German Line African Cichlids",
     subtitle: "Hand raised peacocks and haps, delivered from our Ontario fish room.",
     fishName: "Benga Sunshine",
-    image: "/photos/fish/Benga_Sunshine_2.png",
-    accentImage: "/photos/fish/Benga_Sunshine_Peacock_original.png",
+    image: "/photos/fish/Benga_Sunshine_2.webp",
+    accentImage: "/photos/fish/Benga_Sunshine_Peacock_original.webp",
   },
   {
     title: "Collector Quality Color",
     subtitle: "Vivid bloodlines selected for health, pattern, and long-term aquarium success.",
-    fishName: "Super Red Ruby",
-    image: "/photos/fish/Aulonocara_Rubescens_original.jpg",
-    accentImage: "/photos/fish/bg_Aulonocara_Rubescens.png",
+    fishName: "Otopharynx Lithobates",
+    image: "/photos/fish/Otopharynx_Lithobates_2.webp",
+    accentImage: "/photos/fish/Otopharynx_Lithobates_original.webp",
   },
   {
     title: "Lake Malawi Heritage",
     subtitle: "Trusted wholesale breeding experience, now available directly to hobbyists across Canada.",
-    fishName: "Iceberg Redfin",
-    image: "/photos/fish/Iceberg_Redfin_original.jpg",
-    accentImage: "/photos/fish/bg_Iceberg_Redfin.png",
+    fishName: "Placidochromis sp. Jalo Reef",
+    image: "/photos/fish/Jalo_Reef_original.webp",
+    accentImage: "/photos/fish/Extra/Jalo_Reef.webp",
   },
 ] as const;
 
@@ -62,7 +62,7 @@ export const collections: CollectionInfo[] = [
     description:
       "Stunning color, calm temperament, and classic Malawian personality. The centerpiece of many show tanks.",
     category: "Aulonocara (Peacocks)",
-    image: "/photos/fish/Aulonocara_Rubescens_original.jpg",
+    image: "/photos/fish/Aulonocara_Rubescens_original.webp",
     href: "/catalog?category=Aulonocara+%28Peacocks%29",
   },
   {
@@ -72,7 +72,7 @@ export const collections: CollectionInfo[] = [
     description:
       "Bold profiles and impressive presence. From Taiwan Reef to Iceberg Redfin and beyond.",
     category: "Haplochromines (Haps)",
-    image: "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.jpg",
+    image: "/photos/fish/Protomelas_Sp_Steveni_Taiwan_original.webp",
     href: "/catalog?category=Haplochromines+%28Haps%29",
   },
 ];

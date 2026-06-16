@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="page-container grid gap-10 py-16 md:grid-cols-3 md:gap-12">
         <div>
           <Image
-            src="/photos/malawian-logo.png"
+            src="/photos/malawian-logo.webp"
             alt="The Malawian Fish Room"
             width={360}
             height={130}

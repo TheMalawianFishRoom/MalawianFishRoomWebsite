@@ -94,7 +94,7 @@ export function OpeningSoonPopup() {
           <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain bg-[#F4F4F4] px-5 py-4">
             <div className="overflow-hidden rounded-2xl border border-[#2A2B2A]/10 bg-white shadow-sm">
               <Image
-                src="/photos/up_needsphone_flier_blue.png"
+                src="/photos/up_needsphone_flier_blue.webp"
                 alt="The Malawian Fish Room opening soon flier"
                 width={800}
                 height={1100}

@@ -11,7 +11,7 @@ export function SiteHeader() {
         <div className="grid items-center gap-4 lg:grid-cols-[auto_1fr_auto]">
           <Link href="/" className="flex shrink-0 items-center" aria-label="The Malawian Fish Room home">
             <Image
-              src="/photos/malawian-logo.png"
+              src="/photos/malawian-logo.webp"
               alt="The Malawian Fish Room"
               width={360}
               height={130}
