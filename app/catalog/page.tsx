@@ -38,7 +38,7 @@ export default function CatalogPage() {
           </div>
           <div className="relative min-h-[240px] overflow-hidden rounded-2xl bg-black md:min-h-[320px]">
             <Image
-              src="/photos/fish/Aulonocara_Rubescens_original.jpg"
+              src="/photos/fish/Aulonocara_Rubescens_original.webp"
               alt="Super Red Ruby peacock cichlid"
               fill
               className="object-contain p-6"
