@@ -2,7 +2,7 @@ const sharp = require("sharp");
 const fs = require("fs");
 const path = require("path");
 
-const dir = "./public/photos/fish/Extra";
+const dir = "./public/photos/fish/";
 
 fs.readdirSync(dir)
   .filter(file => file.endsWith(".jpg"))
