@@ -14,6 +14,9 @@ export function ContactForm() {
   const [phone, setPhone] = useState("");
   const [message, setMessage] = useState("");
 
+  // Honeypot field
+  const [website, setWebsite] = useState("");
+
   useEffect(() => {
     if (fishParam) {
       setMessage((current) =>
@@ -24,26 +27,47 @@ export function ContactForm() {
     }
   }, [fishParam]);
 
-  const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (
+    event: FormEvent<HTMLFormElement>,
+  ) => {
     event.preventDefault();
 
-    const subject = `Fish Inquiry from ${name || "Website Visitor"}`;
-    const bodyLines = [
-      `Name: ${name}`,
-      `Email: ${email}`,
-      `Phone: ${phone}`,
-      "",
-      "Message:",
-      message,
-    ];
+    const response = await fetch("/api/contact", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        name,
+        email,
+        phone,
+        message,
+        website,
+      }),
+    });
 
-    window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(
-      subject,
-    )}&body=${encodeURIComponent(bodyLines.join("\n"))}`;
+    if (response.ok) {
+      alert("Message sent successfully!");
+
+      setName("");
+      setEmail("");
+      setPhone("");
+      setMessage("");
+      setWebsite("");
+    } else {
+      alert(
+        "There was a problem sending your message. Please email us directly at " +
+          recipient,
+      );
+    }
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-5" aria-label="Contact form">
+    <form
+      onSubmit={handleSubmit}
+      className="space-y-5"
+      aria-label="Contact form"
+    >
       <div>
         <label htmlFor="name" className="mb-1.5 block text-sm font-bold">
           Name
@@ -58,6 +82,7 @@ export function ContactForm() {
           required
         />
       </div>
+
       <div>
         <label htmlFor="email" className="mb-1.5 block text-sm font-bold">
           Email
@@ -72,6 +97,7 @@ export function ContactForm() {
           required
         />
       </div>
+
       <div>
         <label htmlFor="phone" className="mb-1.5 block text-sm font-bold">
           Phone (optional)
@@ -86,6 +112,7 @@ export function ContactForm() {
           className="input-pill"
         />
       </div>
+
       <div>
         <label htmlFor="message" className="mb-1.5 block text-sm font-bold">
           Message
@@ -100,11 +127,25 @@ export function ContactForm() {
           required
         />
       </div>
+
+      {/* Honeypot field for spam bots */}
+      <input
+        type="text"
+        name="website"
+        value={website}
+        onChange={(event) => setWebsite(event.target.value)}
+        className="hidden"
+        tabIndex={-1}
+        autoComplete="off"
+      />
+
       <button type="submit" className="btn-primary w-full sm:w-auto">
         Send inquiry
       </button>
+
       <p className="text-xs text-[#2A2B2A]/55">
-        Opens your email app with your message pre-filled to {recipient}.
+        Messages are sent directly to our inbox. If you experience any issues,
+        you can also email us directly at {recipient}.
       </p>
     </form>
   );
