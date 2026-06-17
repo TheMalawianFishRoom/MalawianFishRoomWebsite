@@ -52,7 +52,9 @@ export default function ContactPage() {
               <br />
               London, Ontario, Canada
               <br /> 
-              Opem 11am - 9pm (est)
+              1 (519) 719-4211
+              <br />
+              Open 11am - 9pm (est)
               <br />
               7 Days a Week!* 
             </p>
