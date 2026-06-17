@@ -98,7 +98,7 @@ export const faqSections: FaqSection[] = [
       {
         question: "What are the hours of operation?",
         answer:
-          "The Malawian Fish Room is open every day (excluding holidays) from 11am - 9pm (est).",
+          "The Malawian Fish Room is open every day (excluding holidays) from 11am - 9pm (est). Call us at 1 (519) 719-4211 for any questions or to arrange pickup.",
       },
     ],
   },

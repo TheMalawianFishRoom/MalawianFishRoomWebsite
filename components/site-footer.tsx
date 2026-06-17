@@ -57,6 +57,8 @@ export function SiteFooter() {
             <br />
             London, Ontario, Canada
             <br />
+            1 (519) 719-4211
+            <br />
             Open 11 am - 9 pm (est), 7 days a week!
           </p>
           <a
