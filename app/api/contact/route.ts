@@ -19,7 +19,7 @@ export async function POST(request: Request) {
     }
 
     await resend.emails.send({
-      from: "MFR Website <onboarding@resend.dev>",
+      from: "The Malawian Fish Room <contact@themalawianfishroom.ca>",
       to: "themalawianfishroom@outlook.com",
       subject: `Fish Inquiry from ${name}`,
       replyTo: email,
