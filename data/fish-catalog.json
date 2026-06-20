@@ -110,7 +110,8 @@
  ],
     "availability": "Available",
     "category": "Aulonocara (Peacocks)",
-    "image": "/photos/fish/red_top_lwanda_original.webp"
+    "image": "/photos/fish/red_top_lwanda.jpg", 
+    "imageSecondary": "/photos/fish/red_top_lwanda_original.webp"
   },
   {
     "name": "Flavescent",
