@@ -22,6 +22,11 @@ export const faqSections: FaqSection[] = [
           "Lake Malawi cichlids thrive in hard, alkaline freshwater. Aim for a pH of roughly 7.8–8.6, water hardness with plenty of mineral content (often supplemented with appropriate buffers or crushed coral depending on your source water), and a stable temperature around 76–80°F (24–27°C). Consistency matters more than chasing perfect numbers.",
       },
       {
+        question: "Are species intermingled?",
+        answer:
+          "All species are bred in single species tanks. We do not intermingle species.",
+      },
+      {
         question: "What size tank do I need?",
         answer:
           "Bigger is better for African cichlids. Many hobbyists start at 55 gallons for a small group; 75 gallons and larger are easier to stock and manage aggression. Provide plenty of rockwork to create territories and break lines of sight. Overcrowding can sometimes reduce aggression in Malawi setups, but filtration and maintenance must keep up with the bioload.",

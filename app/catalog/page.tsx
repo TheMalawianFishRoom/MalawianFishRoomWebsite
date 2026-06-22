@@ -32,7 +32,7 @@ export default function CatalogPage() {
               Fish catalog
             </h1>
             <p className="mt-4 max-w-lg text-sm leading-relaxed text-[#2A2B2A]/75">
-              Explore our current retail list of peacocks and haps. Availability updates regularly.
+            All species bred in single species tanks for guaranteed pure bloodlines. Explore our current retail list of peacocks and haps. Availability updates regularly.
             </p>
 
           </div>
