@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { FaFacebook } from "react-icons/fa";
 
 export function SiteFooter() {
   return (
@@ -14,7 +15,7 @@ export function SiteFooter() {
             className="h-16 w-auto max-w-full rounded-md bg-white/95 p-0 sm:h-20 md:h-24"
           />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/75">
-            Premium German line bred African cichlids raised in Ontario. 
+            Premium German line bred African cichlids raised in Ontario.
             Trusted wholesale breeding, now available directly to hobbyists.
           </p>
         </div>
@@ -28,7 +29,10 @@ export function SiteFooter() {
               </Link>
             </li>
             <li>
-              <Link href="/catalog?availability=Available" className="hover:text-white">
+              <Link
+                href="/catalog?availability=Available"
+                className="hover:text-white"
+              >
                 Available now
               </Link>
             </li>
@@ -51,9 +55,12 @@ export function SiteFooter() {
         </div>
 
         <div>
-          <h2 className="text-sm font-bold tracking-wide">Get in touch</h2>
+          <h2 className="text-sm font-bold tracking-wide">
+            Get in touch
+          </h2>
+
           <p className="mt-4 text-sm leading-relaxed text-white/75">
-            769 Little Simcoe St. 
+            769 Little Simcoe St.
             <br />
             London, Ontario, Canada
             <br />
@@ -61,12 +68,27 @@ export function SiteFooter() {
             <br />
             Open 11 am - 9 pm (est), 7 days a week!
           </p>
+
           <a
             href="mailto:themalawianfishroom@outlook.com"
             className="mt-3 inline-block text-sm font-bold text-[#4794FF] hover:text-[#1577FF]"
           >
             themalawianfishroom@outlook.com
           </a>
+
+          <div className="mt-4">
+            <a
+              href="https://www.facebook.com/TheMalawianFishRoom"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Visit us on Facebook"
+              className="inline-flex items-center gap-2 text-white/75 transition hover:text-[#1877F2]"
+            >
+              <FaFacebook size={30} />
+              <span className="text-sm">Follow us on Facebook</span>
+            </a>
+          </div>
+
           <p className="mt-4 text-xs text-white/50">
             Contact us for current stock, pricing, and local arrangements.
           </p>
