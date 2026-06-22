@@ -78,7 +78,7 @@ export function SiteFooter() {
 
           <div className="mt-4">
             <a
-              href="https://www.facebook.com/TheMalawianFishRoom"
+              href="https://www.facebook.com/share/1DoWGMPc7d/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Visit us on Facebook"
