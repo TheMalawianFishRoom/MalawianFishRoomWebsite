@@ -5,6 +5,11 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { AnnouncementBar } from "@/components/announcement-bar";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import {
+  organizationSchema,
+  localBusinessSchema,
+  websiteSchema,
+} from "@/lib/schema";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -18,27 +23,40 @@ export const metadata: Metadata = {
     default: "The Malawian Fish Room | Premium African Cichlids",
     template: "%s | The Malawian Fish Room",
   },
+  description:
+    "Premium African cichlids and Malawi fish available in Canada. Premium African cichlids raised in Ontario. Browse peacocks and haps from a trusted breeder.",
   openGraph: {
     images: ["/og-image.png"],
   },
-  description:
-    "Premium African cichlids and Malawi fish available in Canada. Premium African cichlids raised in Ontario. Browse peacocks and haps from a trusted breeder.",
-    
-    icons: {
-      icon: "/favicon.ico",
-      apple: "/apple-touch-icon.png",
-    },
-  
-    manifest: "/site.webmanifest",
-  };
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
+  manifest: "/site.webmanifest",
+};
 
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const structuredData = [
+    organizationSchema(),
+    localBusinessSchema(),
+    websiteSchema(),
+  ];
+
   return (
     <html lang="en" className={`${dmSans.variable} h-full antialiased`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(structuredData),
+          }}
+        />
+      </head>
+
       <body className="flex min-h-full flex-col">
         <a
           href="#main-content"
@@ -46,12 +64,17 @@ export default function RootLayout({
         >
           Skip to content
         </a>
+
         <AnnouncementBar />
+
         <SiteHeader />
+
         <main id="main-content" className="flex-1">
           {children}
         </main>
+
         <SiteFooter />
+
         <Analytics />
         <SpeedInsights />
       </body>
