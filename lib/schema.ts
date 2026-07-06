@@ -9,11 +9,18 @@ export function organizationSchema() {
 
     url: siteConfig.url,
 
-    logo: siteConfig.logo,
+    logo: `${siteConfig.url}${siteConfig.logo}`,
 
     email: siteConfig.email,
 
     telephone: siteConfig.phone,
+
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: siteConfig.phone,
+      email: siteConfig.email,
+      contactType: "customer service",
+    },
 
     sameAs: [siteConfig.facebook],
   };
@@ -23,11 +30,11 @@ export function localBusinessSchema() {
   return {
     "@context": "https://schema.org",
 
-    "@type": "Store",
+    "@type": "PetStore",
 
     name: siteConfig.name,
 
-    image: siteConfig.logo,
+    image: `${siteConfig.url}${siteConfig.logo}`,
 
     description: siteConfig.description,
 
@@ -39,15 +46,21 @@ export function localBusinessSchema() {
 
     address: {
       "@type": "PostalAddress",
-
       addressRegion: siteConfig.region,
-
       addressCountry: siteConfig.country,
+    },
+
+    foundingLocation: {
+      "@type": "Place",
+      address: {
+        "@type": "PostalAddress",
+        addressRegion: siteConfig.region,
+        addressCountry: siteConfig.country,
+      },
     },
 
     areaServed: {
       "@type": "Country",
-
       name: "Canada",
     },
 

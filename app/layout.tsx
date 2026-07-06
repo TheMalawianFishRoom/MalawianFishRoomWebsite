@@ -10,6 +10,7 @@ import {
   localBusinessSchema,
   websiteSchema,
 } from "@/lib/schema";
+import { siteConfig } from "@/lib/site-config";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -19,19 +20,57 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteConfig.url),
+
   title: {
-    default: "The Malawian Fish Room | Premium African Cichlids",
-    template: "%s | The Malawian Fish Room",
+    default: `${siteConfig.name} | Premium African Cichlids`,
+    template: `%s | ${siteConfig.name}`,
   },
-  description:
-    "Premium African cichlids and Malawi fish available in Canada. Premium African cichlids raised in Ontario. Browse peacocks and haps from a trusted breeder.",
+
+  description: siteConfig.description,
+
+  applicationName: siteConfig.name,
+
+  creator: siteConfig.creator,
+
+  publisher: siteConfig.name,
+
+  keywords: [...siteConfig.keywords],
+
+  alternates: {
+    canonical: "/",
+  },
+
   openGraph: {
-    images: ["/og-image.png"],
+    type: "website",
+    locale: siteConfig.locale,
+    url: siteConfig.url,
+    siteName: siteConfig.name,
+    title: siteConfig.name,
+    description: siteConfig.description,
+
+    images: [
+      {
+        url: siteConfig.ogImage,
+        width: 1200,
+        height: 630,
+        alt: siteConfig.name,
+      },
+    ],
   },
+
+  twitter: {
+    card: "summary_large_image",
+    title: siteConfig.name,
+    description: siteConfig.description,
+    images: [siteConfig.ogImage],
+  },
+
   icons: {
     icon: "/favicon.ico",
     apple: "/apple-touch-icon.png",
   },
+
   manifest: "/site.webmanifest",
 };
 
