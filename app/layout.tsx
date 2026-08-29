@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { AnnouncementBar } from "@/components/announcement-bar";
+// import { AnnouncementBar } from "@/components/announcement-bar";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import {
@@ -104,7 +104,7 @@ export default function RootLayout({
           Skip to content
         </a>
 
-        <AnnouncementBar />
+        {/* <AnnouncementBar /> */}
 
         <SiteHeader />
 

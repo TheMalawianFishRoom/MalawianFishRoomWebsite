@@ -2,24 +2,24 @@
   {
     "name": "Benga Sunshine",
 
-     "salePercent": 50,
+     "salePercent": 0,
 
      "sizes": [
     {
       "label": "3\"-4\"",
-      "price": 79.99,
+      "price": 39.99,
       "available": true
     },
 
     {
       "label": "4\"-5\"",
-      "price": 99.99,
+      "price": 49.99,
       "available": true
     },
 
     {
       "label": "5+\"",
-      "price": 119.99,
+      "price": 59.99,
       "available": true
     }
   ],
@@ -30,25 +30,25 @@
   },
   {
     "name": "Albino Sunshine",
-    
-    "salePercent": 50,
+  
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -59,24 +59,24 @@
   {
     "name": "Super Red Ruby",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -87,24 +87,24 @@
   {
     "name": "Lwanda Red Top",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -116,24 +116,24 @@
   {
     "name": "Flavescent",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -145,24 +145,24 @@
   {
     "name": "Albino Flavescent",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -172,24 +172,24 @@
   {
     "name": "Blue Neon",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -200,24 +200,24 @@
   {
     "name": "Eureka Red OB",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -228,24 +228,24 @@
   {
     "name": "Eureka Red",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -256,24 +256,24 @@
   {
     "name": "Swallowtail",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -284,24 +284,24 @@
   {
     "name": "Albino Swallowtail",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -313,24 +313,24 @@
   {
     "name": "Fire Fish Red Coral",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -341,24 +341,24 @@
   {
     "name": "Platinum Turkis",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -369,24 +369,24 @@
   {
     "name": "Red OB",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -398,24 +398,24 @@
   {
     "name": "Yellow Benga OB",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -427,24 +427,24 @@
   {
     "name": "Pink OB",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -456,24 +456,24 @@
   {
     "name": "Red/Blue OB",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -485,24 +485,24 @@
   {
     "name": "Blue Dragon",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -513,24 +513,24 @@
   {
     "name": "Saffron",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -541,24 +541,24 @@
   {
     "name": "Albino Saffron",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -570,24 +570,24 @@
   {
     "name": "Lemon Jake",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -597,24 +597,24 @@
   {
     "name": "Albino Ruby Red",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -625,24 +625,24 @@
   {
     "name": "Sciaenochromis fryeri \"Iceberg Redfin\"",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -653,24 +653,24 @@
   {
     "name": "Otopharynx Lithobates",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -682,24 +682,24 @@
   {
     "name": "Otopharynx Lithobates BOD",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -710,24 +710,24 @@
   {
     "name": "Nimbochromis Venustus / Milomo VC-10",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -738,24 +738,24 @@
   {
     "name": "Protomelas sp. \"Taiwan Reef\"",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -766,24 +766,24 @@
   {
     "name": "Placidochromis sp. Jalo Reef",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -795,24 +795,24 @@
   {
     "name": "Protomelas Taeniolatus Red Empress",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -823,24 +823,24 @@
   {
     "name": "Protomelas Taeniolatus Albino Red Empress",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -851,24 +851,24 @@
   {
     "name": "Star Sapphire",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -878,24 +878,24 @@
   {
     "name": "Lethrinops intermedius",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],
@@ -906,24 +906,24 @@
   {
     "name": "Ivory Lupingue",
     
-    "salePercent": 50,
+    "salePercent": 0,
 
     "sizes": [
    {
      "label": "3\"-4\"",
-     "price": 79.99,
+     "price": 39.99,
      "available": true
    },
 
    {
      "label": "4\"-5\"",
-     "price": 99.99,
+     "price": 49.99,
      "available": true
    },
 
    {
      "label": "5+\"",
-     "price": 119.99,
+     "price": 59.99,
      "available": true
    }
  ],

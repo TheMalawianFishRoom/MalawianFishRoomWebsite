@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { CollectionCard } from "@/components/collection-card";
 import { HeroSlideshow } from "@/components/hero-slideshow";
-import { OpeningSoonPopup } from "@/components/opening-soon-popup";
+// import { OpeningSoonPopup } from "@/components/opening-soon-popup";
 import { ProductCard } from "@/components/product-card";
 import {
   availableFeaturedFish,
@@ -16,7 +16,7 @@ export default function HomePage() {
 
   return (
     <>
-      <OpeningSoonPopup />
+      {/* <OpeningSoonPopup /> */}
       <HeroSlideshow />
 
       <section className="section-blue-gradient">
@@ -27,7 +27,7 @@ export default function HomePage() {
               text: "Healthy and vibrant cichlids from our dedicated fish room, always bred with care for long-term success.",
             },
             {
-              title: "Wholesale heritage",
+              title: "Wholesale experience",
               text: "Years of consistent wholesale breeding now offered directly to hobbyists across Canada.",
             },
             {
@@ -98,7 +98,7 @@ export default function HomePage() {
               Why choose us
             </p>
             <h2 className="text-3xl font-bold text-[#2A2B2A] md:text-4xl">
-              Customers trust our fish, and our experience.
+               Trusted for our fish. Valued for our experience.
             </h2>
             <p className="text-sm leading-relaxed text-[#2A2B2A]/75">
               The Malawian Fish Room makes it straightforward to find beautiful, healthy African
