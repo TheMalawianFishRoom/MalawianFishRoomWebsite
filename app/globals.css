@@ -153,8 +153,8 @@ body {
 
 .product-grid {
   display: grid;
-  gap: 0.5rem;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 2rem 2rem;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
 @media (min-width: 640px) {
