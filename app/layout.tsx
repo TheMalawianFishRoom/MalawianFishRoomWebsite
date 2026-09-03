@@ -5,7 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 // import { AnnouncementBar } from "@/components/announcement-bar";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
-import ScrollToTop from "@/components/scroll-to-top";
+import { ScrollToTop } from "@/components/scroll-to-top";
 import {
   organizationSchema,
   localBusinessSchema,
