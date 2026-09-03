@@ -20,7 +20,7 @@ export function SiteHeader() {
             />
           </Link>
 
-          <div className="mx-auto w-full max-w-xl">
+          <div className="site-header-search mx-auto w-full max-w-xl">
             <SiteSearch />
           </div>
 
