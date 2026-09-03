@@ -217,7 +217,8 @@ body {
 }
 
 @media (max-width: 639px) {
-  .site-header-logo {
+  .site-header-logo,
+  .site-header-search {
     display: none !important;
   }
 }
