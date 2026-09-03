@@ -9,7 +9,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-white/15 bg-black text-white">
       <div className="page-container border-b border-white/10 py-4">
         <div className="grid items-center gap-4 lg:grid-cols-[auto_1fr_auto]">
-          <Link href="/" className="flex shrink-0 items-center sm:flex" aria-label="The Malawian Fish Room home">
+        <Link href="/"className="site-header-logo flex shrink-0 items-center"aria-label="The Malawian Fish Room home">
             <Image
               src="/photos/malawian-logo.webp"
               alt="The Malawian Fish Room"

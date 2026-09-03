@@ -215,3 +215,9 @@ body {
     row-gap: 4rem;
   }
 }
+
+@media (max-width: 639px) {
+  .site-header-logo {
+    display: none !important;
+  }
+}
