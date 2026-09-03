@@ -251,3 +251,14 @@ body {
     line-height: 1.25rem;
   }
 }
+
+
+@media (max-width: 639px) {
+  .catalog-product-grid article {
+    min-width: 0;
+  }
+
+  .catalog-product-grid h3 {
+    overflow-wrap: anywhere;
+  }
+}

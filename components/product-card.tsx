@@ -59,7 +59,7 @@ export function ProductCard({ fish, showInquire = true }: Props) {
         {fish.category}
       </p>
 
-      <h3 className="mt-1 text-base font-bold leading-snug text-[#1577FF]">
+      <h3 className="mt-1 min-w-0 text-base font-bold leading-snug text-[#1577FF] break-words">
         {fish.name}
       </h3>
 
