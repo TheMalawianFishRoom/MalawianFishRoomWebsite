@@ -216,9 +216,31 @@ body {
   }
 }
 
+.site-header-mobile-title {
+  display: none;
+}
+
 @media (max-width: 639px) {
+  .site-header-mobile-title {
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.75rem;
+    font-weight: 500;
+    opacity: 0.65;
+    white-space: nowrap;
+  }
+
   .site-header-logo,
   .site-header-search {
-    display: none !important;
+    display: none;
+  }
+}
+
+@media (max-width: 639px) {
+  .catalog-product-grid .product-card-size-badge,
+  .catalog-product-grid .product-card-availability-badge {
+    display: none;
   }
 }

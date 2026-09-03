@@ -29,7 +29,7 @@ export function ProductCard({ fish, showInquire = true }: Props) {
         )}
 
         {/* Size availability badges */}
-        <div className="absolute bottom-3 left-3 flex flex-wrap gap-1">
+        <div className="absolute bottom-3 left-3 flex flex-wrap gap-1 product-card-size-badge">
           {fish.sizes
             .filter((size) => size.available)
             .map((size) => (
@@ -43,13 +43,13 @@ export function ProductCard({ fish, showInquire = true }: Props) {
         </div>
 
         {fish.tag ? (
-          <span className="absolute left-3 top-3 rounded-full bg-[#0D2C54] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-white">
+          <span className="absolute left-3 top-3 rounded-full bg-[#0D2C54] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-white product-card-size-badge">
             {fish.tag}
           </span>
         ) : null}
 
         {isAvailable ? (
-          <span className="absolute right-3 top-3 rounded-full bg-[#13FD17] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-black">
+          <span className="absolute right-3 top-3 rounded-full bg-[#13FD17] px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-black product-card-availability-badge">
             Available
           </span>
         ) : null}

@@ -5,6 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 // import { AnnouncementBar } from "@/components/announcement-bar";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import ScrollToTop from "@/components/scroll-to-top";
 import {
   organizationSchema,
   localBusinessSchema,
@@ -107,6 +108,7 @@ export default function RootLayout({
         {/* <AnnouncementBar /> */}
 
         <SiteHeader />
+        <ScrollToTop />
 
         <main id="main-content" className="flex-1">
           {children}

@@ -24,6 +24,10 @@ export function SiteHeader() {
             <SiteSearch />
           </div>
 
+          <div className="site-header-mobile-title">
+               The Malawian Fish Room
+          </div>
+
           <div className="flex items-center justify-end gap-4 text-sm font-bold">
             <Link href="/contact" className="hidden hover:text-[#4794FF] sm:inline">
               Account / Inquiries
