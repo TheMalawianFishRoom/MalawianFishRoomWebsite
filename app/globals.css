@@ -193,3 +193,25 @@ body {
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #0f5ecc;
 }
+
+
+
+.catalog-product-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+
+@media (min-width: 640px) {
+  .catalog-product-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .catalog-product-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    row-gap: 4rem;
+  }
+}
