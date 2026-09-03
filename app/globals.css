@@ -244,3 +244,10 @@ body {
     display: none;
   }
 }
+
+@media (max-width: 639px) {
+  .catalog-product-grid h3 {
+    min-height: 2.5rem;
+    line-height: 1.25rem;
+  }
+}
