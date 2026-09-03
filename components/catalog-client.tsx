@@ -114,7 +114,7 @@ export function CatalogClient({ fishData }: Props) {
       <div
         className={
           view === "grid"
-            ? "product-grid"
+            ? "catalog-product-grid"
             : "flex flex-col gap-8 divide-y divide-[#2A2B2A]/10"
         }
       >
