@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
 
-  manifest: "/site.webmanifest",
+  //manifest: "/site.webmanifest",// allows app download on mobile devices
 };
 
 export default function RootLayout({

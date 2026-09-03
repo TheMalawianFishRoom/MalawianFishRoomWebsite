@@ -9,7 +9,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-white/15 bg-black text-white">
       <div className="page-container border-b border-white/10 py-4">
         <div className="grid items-center gap-4 lg:grid-cols-[auto_1fr_auto]">
-          <Link href="/" className="flex shrink-0 items-center" aria-label="The Malawian Fish Room home">
+          <Link href="/" className="flex shrink-0 items-center sm:flex" aria-label="The Malawian Fish Room home">
             <Image
               src="/photos/malawian-logo.webp"
               alt="The Malawian Fish Room"
@@ -30,7 +30,7 @@ export function SiteHeader() {
             </Link>
             <Link
               href="/catalog"
-              className="flex items-center gap-1.5 hover:text-[#4794FF]"
+              className="hidden items-center gap-1.5 hover:text-[#4794FF] sm:flex"
               aria-label="View fish catalog"
             >
               <span className="hidden sm:inline">Catalog</span>
